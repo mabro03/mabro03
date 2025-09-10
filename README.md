@@ -1,5 +1,6 @@
 # Hello proffesor 👋
-## My name is Cheul Wung You. Thank you for your support during the semester.
+## My name is Cheul Wung You. 
+*Thank you for your support during the semester.* 
 
 <!--
 **mabro03/mabro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
